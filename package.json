@@ -1,0 +1,7 @@
+{
+  "name": "dataflowstudio-simple-app",
+  "private": true,
+  "scripts": {
+    "start": "bash run.sh"
+  }
+}
